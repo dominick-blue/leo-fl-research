@@ -1,0 +1,20 @@
+# Starlink TLE Snapshot
+# Source: CelesTrak (https://celestrak.org/NORAD/elements/gp.php?GROUP=starlink&FORMAT=tle)
+# Downloaded: [Add date here]
+#
+# Note: TLE data becomes stale quickly. For accurate propagation,
+# update this file regularly or fetch dynamically.
+#
+# Example TLE entries (placeholder - replace with actual data):
+
+STARLINK-1007
+1 44713U 19074A   24001.50000000  .00001000  00000-0  10000-3 0  9999
+2 44713  53.0500 200.0000 0001500  90.0000 270.0000 15.05000000 10000
+
+STARLINK-1008
+1 44714U 19074B   24001.50000000  .00001000  00000-0  10000-3 0  9999
+2 44714  53.0500 200.1000 0001500  90.1000 270.0000 15.05000000 10000
+
+STARLINK-1009
+1 44715U 19074C   24001.50000000  .00001000  00000-0  10000-3 0  9999
+2 44715  53.0500 200.2000 0001500  90.2000 270.0000 15.05000000 10000

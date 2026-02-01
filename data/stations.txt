@@ -1,0 +1,21 @@
+# Ground Station Coordinates
+# Format: name,latitude,longitude,altitude_m
+#
+# Example ground stations for LEO communication research
+
+# North America
+Svalbard,78.2306,15.3894,458
+Fairbanks,64.8378,-147.7164,136
+Seattle,47.6062,-122.3321,56
+Houston,29.7604,-95.3698,15
+
+# Europe
+Kiruna,67.8558,20.2253,391
+Darmstadt,49.8728,8.6512,144
+
+# Asia-Pacific
+Tokyo,35.6762,139.6503,40
+Sydney,-33.8688,151.2093,58
+
+# South America
+Santiago,-33.4489,-70.6693,520
