@@ -9,7 +9,6 @@ from dataclasses import dataclass, field
 import numpy as np
 
 from skyfield.api import load, wgs84, EarthSatellite
-from .orbital_mechanics import load_tle_file, propagate_satellite
 from .visibility_utils import compute_visibility_windows, compute_inter_satellite_visibility
 
 
@@ -45,7 +44,7 @@ class Constellation:
         Returns:
             Number of satellites added
         """
-        satellites = load_tle_file(filepath)
+        satellites = load.tle_file(filepath)
         count = 0
         for sat in satellites:
             node_id = f"sat_{len(self.nodes)}"
