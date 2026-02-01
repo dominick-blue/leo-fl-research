@@ -30,9 +30,5 @@ leo-fl-research/
 ## Getting Started
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
-
-## License
-
-MIT
