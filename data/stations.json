@@ -1,0 +1,23 @@
+[
+  {
+    "id": "gatech_atlanta",
+    "name": "Georgia Tech (Atlanta)",
+    "latitude": 33.7756,
+    "longitude": -84.3963,
+    "elevation_m": 295
+  },
+  {
+    "id": "london_uk",
+    "name": "London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "elevation_m": 11
+  },
+  {
+    "id": "singapore",
+    "name": "Singapore",
+    "latitude": 1.3521,
+    "longitude": 103.8198,
+    "elevation_m": 15
+  }
+]
